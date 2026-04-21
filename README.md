@@ -8,7 +8,7 @@
 A Streamlit web application that analyzes your resume against a job description using LLaMA 3.3 70B via Groq API. Get an instant score, missing keywords, actionable suggestions, and an AI-generated summary — all in a sleek dark UI.
 
 ---
-🔗 Try it live → https://ai-resume-optimizer-app.streamlit.app/
+🔗 Try it live → https://ai-resume-optimizer-app.streamlit.app/ <br>
 A Streamlit web application that analyzes your resume against a job description using LLaMA 3.3 70B via Groq API. Get an instant score, missing keywords, actionable suggestions, and an AI-generated summary — all in a sleek dark UI.
 ## 📸 Screenshots
 
