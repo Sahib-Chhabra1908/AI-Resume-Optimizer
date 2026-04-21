@@ -16,8 +16,7 @@ A Streamlit web application that analyzes your resume against a job description 
 
 | Upload & Analyze | Results Dashboard |
 |------------------|-------------------|
-| ![upload](<img width="1201" height="802" alt="Screenshot 2026-04-21 131033" src="https://github.com/user-attachments/assets/9cdbe78a-e907-4578-852c-506ecce931e5" />
-) | ![results](<img width="1118" height="816" alt="image" src="https://github.com/user-attachments/assets/6360f5ab-cc9e-4535-9c33-35a8f6464360" />
+| ![upload](<img width="1201" height="802" alt="Screenshot 2026-04-21 131033" src="https://github.com/user-attachments/assets/9cdbe78a-e907-4578-852c-506ecce931e5" />) | ![results](<img width="1118" height="816" alt="image" src="https://github.com/user-attachments/assets/6360f5ab-cc9e-4535-9c33-35a8f6464360" />
 ) |
 
 ---
